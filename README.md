@@ -4,7 +4,7 @@ Professor Messer Security+ Notes!
 
 
 
-[Physical Security](https://github.com/ashamsaasef7533-a11y/Security-Notes/blob/main/PhysicalSecurity.md) 
+[Physical Security](https://github.com/ashamsaasef7533-a11y/Security-Notes/blob/main/Physical%20Security.pdf) 
 
 [CIA Triad](https://github.com/ashamsaasef7533-a11y/Security-Notes/blob/main/The%20CIA%20Triad.pdf)
 
